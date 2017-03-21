@@ -1,0 +1,2 @@
+use Supermarket
+SELECT CommodityName,CommoditySort.SortName,CommodityPrice,IsDiscount,ReducedPrice from Commodity,CommoditySort

@@ -1,0 +1,5 @@
+F:\test\homework\mySupermarketDemo\mySupermarketDemo\mySupermarketDemo\obj\Debug\ResolveAssemblyReference.cache
+F:\test\homework\mySupermarketDemo\mySupermarketDemo\mySupermarketDemo\bin\mySupermarketDemo.dll
+F:\test\homework\mySupermarketDemo\mySupermarketDemo\mySupermarketDemo\bin\mySupermarketDemo.pdb
+F:\test\homework\mySupermarketDemo\mySupermarketDemo\mySupermarketDemo\obj\Debug\mySupermarketDemo.dll
+F:\test\homework\mySupermarketDemo\mySupermarketDemo\mySupermarketDemo\obj\Debug\mySupermarketDemo.pdb

@@ -1,0 +1,5 @@
+F:\test\homework\Supermarket\测试\测试\bin\测试.dll
+F:\test\homework\Supermarket\测试\测试\bin\测试.pdb
+F:\test\homework\Supermarket\测试\测试\obj\Debug\ResolveAssemblyReference.cache
+F:\test\homework\Supermarket\测试\测试\obj\Debug\测试.dll
+F:\test\homework\Supermarket\测试\测试\obj\Debug\测试.pdb
