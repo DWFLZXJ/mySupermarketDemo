@@ -1,0 +1,5 @@
+F:\test\我的测试\超市管理3\Supermarket\bin\Supermarket.dll
+F:\test\我的测试\超市管理3\Supermarket\bin\Supermarket.pdb
+F:\test\我的测试\超市管理3\Supermarket\obj\Debug\Supermarket.dll
+F:\test\我的测试\超市管理3\Supermarket\obj\Debug\Supermarket.pdb
+F:\test\我的测试\超市管理3\Supermarket\obj\Debug\Supermarket.csprojResolveAssemblyReference.cache
